@@ -1,0 +1,2 @@
+# Optional: useful for standards-oriented IDNA/UTS #46 processing in a future phase.
+idna>=3.10
